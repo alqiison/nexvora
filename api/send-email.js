@@ -1,6 +1,6 @@
 const nodemailer = require('nodemailer');
 
-const API_KEY = 'rich01';
+const API_KEY = 'nexvora';
 
 const ALLOWED_METHODS = ['POST', 'OPTIONS'];
 
